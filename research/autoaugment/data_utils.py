@@ -20,7 +20,7 @@ from __future__ import division
 from __future__ import print_function
 
 import copy
-import _Pickle as cPickle
+import _pickle as cPickle
 import os
 import augmentation_transforms
 import numpy as np
